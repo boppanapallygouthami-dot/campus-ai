@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "event": "Smart Campus Tech Fest",
+    "venue": "Main Seminar Hall",
+    "date": "2026-08-20",
+    "description": "A day showcasing student engineering projects, coding tournaments, and expert tech talks.",
+    "attendees": [
+      "STU001"
+    ]
+  },
+  {
+    "id": 2,
+    "event": "Alumni Networking Summit",
+    "venue": "Campus Auditorium",
+    "date": "2026-09-05",
+    "description": "Meet and connect with successful alumni working in top tech companies worldwide.",
+    "attendees": []
+  }
+]

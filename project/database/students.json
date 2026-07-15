@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "student_id": "STU001",
+    "name": "John Doe",
+    "department": "Computer Science",
+    "email": "student@campus.com",
+    "mobile": "9876543210",
+    "year": "3rd Year",
+    "attendance": 95
+  },
+  {
+    "id": 2,
+    "student_id": "23X31A6720",
+    "name": "boppanapallygouthami",
+    "department": "Computer Science",
+    "email": "boppanapallygouthami@gmail.com",
+    "mobile": "9059134579",
+    "year": "1st Year",
+    "attendance": 100
+  }
+]

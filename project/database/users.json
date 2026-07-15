@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Admin User",
+    "student_id": "ADMIN001",
+    "department": "Administration",
+    "email": "admin@campus.com",
+    "mobile": "1234567890",
+    "password": "$2b$12$wlB0SlT2shrTQmvM9pnCNOKtDmUkYEHSfh5xVg9/kj0ObU32UAgNm",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "John Doe",
+    "student_id": "STU001",
+    "department": "Computer Science",
+    "email": "student@campus.com",
+    "mobile": "9876543210",
+    "password": "$2b$12$KvVbl66c6eWMg39APyHVz.S7slrgVygj2/UtcySi5V70Dwvw.6rDO",
+    "role": "student"
+  },
+  {
+    "id": 3,
+    "name": "boppanapallygouthami",
+    "student_id": "23X31A6720",
+    "department": "Computer Science",
+    "email": "boppanapallygouthami@gmail.com",
+    "mobile": "9059134579",
+    "password": "$2b$12$7iJBq/zPMet7rg9lb6kNuuunVFQTaZmQ3cNdfpsVpp4rFvBYivrcm",
+    "role": "student"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Semester Exams Schedule Released",
+    "description": "The semester end exams are scheduled to start from August 10, 2026. Please collect your admit cards.",
+    "category": "Academics",
+    "date": "2026-07-14"
+  },
+  {
+    "id": 2,
+    "title": "Annual Hackathon Registrations Open",
+    "description": "Register for the Campus Hackathon 2026. Cash prizes up to $5000.",
+    "category": "Events",
+    "date": "2026-07-12"
+  }
+]

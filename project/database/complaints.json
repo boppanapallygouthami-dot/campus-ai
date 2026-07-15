@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "student_id": "STU001",
+    "student": "John Doe",
+    "issue": "WiFi signal strength is very low in Hostel Block B, room 305.",
+    "status": "In Progress",
+    "date": "2026-07-13"
+  }
+]
