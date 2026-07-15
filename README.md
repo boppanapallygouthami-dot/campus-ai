@@ -1,1 +1,1 @@
-# campus-ai
+# project
